@@ -1,0 +1,49 @@
+C:\Users\305\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\305\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\305\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Login_Panel.resources
+C:\Users\305\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+C:\Users\305\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\305\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\305\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe.config
+C:\Users\305\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe
+C:\Users\305\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.pdb
+C:\Users\305\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.exe
+C:\Users\305\source\repos\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.pdb
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe.config
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.pdb
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.AssemblyReference.cache
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Login_Panel.resources
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.GenerateResource.cache
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.CoreCompileInputs.cache
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.exe
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.pdb
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Menu_Panel.resources
+D:\TARIK HAMARAT C# 21 OCAK\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Randevu_Panel.resources
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe.config
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.pdb
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Login_Panel.resources
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Menu_Panel.resources
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Randevu_Panel.resources
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.exe
+C:\Users\hızır\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.pdb
+C:\Users\Lenovo\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe.config
+C:\Users\Lenovo\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.exe
+C:\Users\Lenovo\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\bin\Debug\Hastane_Otomasyonu.pdb
+C:\Users\Lenovo\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Login_Panel.resources
+C:\Users\Lenovo\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Menu_Panel.resources
+C:\Users\Lenovo\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.Randevu_Panel.resources
+C:\Users\Lenovo\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.exe
+C:\Users\Lenovo\Desktop\c# Genel tekrar\windows_form\Hastane_Otomasyonu\Hastane_Otomasyonu\obj\Debug\Hastane_Otomasyonu.pdb
